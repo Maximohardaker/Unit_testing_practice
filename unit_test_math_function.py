@@ -1,5 +1,5 @@
 import unittest
-
+from math_function import square_integer
 
 class TestFunction(unittest.TestCase):
 
