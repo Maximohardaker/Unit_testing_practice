@@ -4,4 +4,4 @@ def square_integer(num):
   if isinstance (num, int):
     return m.pow(num, 2)
   else:
-    return "Please enter a valid integer:"
+    return "Please enter a stupid integer:"
